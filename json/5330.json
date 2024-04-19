@@ -1,0 +1,23 @@
+{
+  "name": "Initverse Badge #5330",
+  "description": "Initverse Badge",
+  "image": "https://raw.githubusercontent.com/verse-extend/medal/main/images/5330.png",
+  "dna": "2335cbd839e061423f197cd34b8ec45bb9a5f482",
+  "edition": 5330,
+  "date": 1713506128731,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "1"
+    },
+    {
+      "trait_type": "frame",
+      "value": "2"
+    },
+    {
+      "trait_type": "logo",
+      "value": "3"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
